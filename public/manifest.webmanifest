@@ -1,0 +1,18 @@
+{
+  "name": "CodePath - Daily Coding & Computer Science Roadmap",
+  "short_name": "CodePath",
+  "description": "Master DSA, Full Stack, DevOps, Python, and Java with interactive roadmaps, quizzes, and code practice.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
